@@ -19,4 +19,4 @@ The project uses sensor readings from 10 tiltmeter sensors and 4 crackmeter sens
 - scikit-learn
 - keras
 - matplotlib
-- fbprophet
+- prophet
